@@ -1,0 +1,25 @@
+varriable
+A := 13
+B := INTEGER
+C := 65
+S := "SirDeLitere"
+CH := 'C'
+LISTA := LIST[10] of STRING
+AUX := INTEGER
+START
+B := read(B)
+waitwhile C < B dosomething
+C := A + B + 101 + 27 + 15
+FINISH
+write(C)
+LISTA += A
+LISTA += B
+LISTA += C
+AUX := LISTA(0)
+write(AUX)
+FINISH
+.
+AAAAAABBBCCC
+EROARE_
+ERORR_1
+A1A_A
